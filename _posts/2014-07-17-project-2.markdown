@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title:  黄毓鹏讲解传统杨式太极拳85式
+subtitle: 三十七个不重复单式详解
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2017-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2017-2018
+client: 黄毓鹏
+category: 视频教学
+description: 杨式太极拳第六代传人黄毓鹏老师详解传统杨式大架太极拳。此拳为杨澄甫宗师传授崔毅士先生，崔毅士传张勇涛，张勇涛传黄毓鹏。全套路共126式，另称85式，计数方式不同，实为同一套拳。去掉重复，传统杨式太极拳共三十七个不同式名的动作。各大视频网站均可看到。
 
 ---
