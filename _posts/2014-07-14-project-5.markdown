@@ -1,6 +1,6 @@
 ---
 title: 盘山过半方知远
-subtitle: 田秋信大师拳照
+subtitle: 田秋信大师系列拳照
 layout: default
 modal-id: 5
 date: 2014-07-14
