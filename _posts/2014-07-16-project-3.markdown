@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: 我在故宫打太极
+subtitle: 在故宫博物院内录制
 layout: default
 modal-id: 3
 date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2017年
+client: 何宇清
+category: 视频教学
+description: 这大概是首次允许带着刀剑进故宫录制太极拳教学片。由张峻峰、黄毓鹏、何宇清分别演练。张峻峰，中国武术七段，央视传统杨式太极拳教学节目的特邀老师，中国武协审定的吴式太极拳段位制教程的编著和演示范者，1971年出生于北京，习练太极拳三十余年。搜索《我在故宫打太极》即可观看所有视频。
 
 ---
