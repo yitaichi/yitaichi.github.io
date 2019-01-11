@@ -1,15 +1,42 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: 盘山过半方知远
+subtitle: 田秋信大师拳照
 layout: default
 modal-id: 5
 date: 2014-07-14
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2016年
+client: 吴旭
+category: 摄影作品
+description: 
+我出生于民国三十一年
+跟家叔学拳时，年纪尚小
+练了六十余年太极拳
+盘山过半方知远
+
+太极拳就是用最少的动作和消耗
+直接表达你自己
+我的功夫没有秘密
+专注、精进、及至刚柔无迹
+
+每当有人问我
+田秋信老师
+要多久我的拳才能练成你那样
+我想告诉他说
+不久，不久
+我们只差数十年而已
+
+拳术必须经过时间的磨砺
+人心的锻打
+有了规矩
+有了传承
+它就变成了功夫
+功夫成了
+做人的道理也就清楚了
+
+一拳，一生
+太极拳，就是我的生命
 
 ---
