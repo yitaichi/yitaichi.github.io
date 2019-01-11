@@ -1,15 +1,20 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: 一拳一生
+subtitle: 太极拳就是我的生命
 layout: default
 modal-id: 4
 date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2016年
+client: 吴旭
+category: 摄影作品
+description: “我六岁学拳，一生最美好的时光都投入在这里，每天都是一样的，吃，睡，练，六十六年如一日。
+太极是宁静灵魂的艺术，它所教给我的是，不被形式束缚，做真实的自我，拳术就是要忠诚地表达自己，曲伸舍随，顺乎自然，人生的智慧也全在这里边。
+以专注、精进、平和的心做每一次练习，在每一次练习中，发现你自己、完善你自己，拳就是心。
+发现你自己、完善你自己
+一拳，一生。太极拳，就是我的生命。”——张勇涛
+发现你自己、完善你自己
 
 ---
