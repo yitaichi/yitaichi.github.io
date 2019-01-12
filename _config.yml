@@ -11,18 +11,18 @@ description: "在这里，我们一起打开太极世界的大门，亲近几千
 people:
 - name: 何宇清
   pic: 1
-  position: 欧洲孔子学院太极导师
+  position: 陈式太极拳第十二代传人
   social:
     - title: twitter
-      url: #
+      url: http://twitter.com/bbihyq
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: http://www.facebook.com/crypto6
+    - title: google-plus
+      url: bbihyq@gmail.com
 
 - name: 张勇涛
   pic: 2
-  position: 杨式太极拳第五代代表性传人
+  position: 杨式太极拳第五代嫡传大师
   social:
     - title: twitter
       url: #
@@ -45,19 +45,19 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/bbihyq
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: google-plus
+    url: bbihyq@gmail.com
+  - title: facebook 
+    url: http://twitter.com/sinocollection
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/bbihyq
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 北京东城区安德路47号西门
+  - line: 北京市东城区安德路47号西门
   - line: 壹太极空间
 
 # Build settings
