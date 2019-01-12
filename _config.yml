@@ -4,14 +4,14 @@ baseurl: /
 # Site settings
 title: 壹太极YITAICHI官网 | 北京太极拳馆_北京太极拳培训_企业太极拳培训班
 email: airwe@126.com
-description: "在这里，我们一起打开太极世界的大门，亲近几千年来祖先留下的传统身心智慧。壹太极要用最好的太极服务链接最棒的人，很多投资人、创业者都在壹太极练拳，赶快来与我们相会吧！"
+description: "壹太极是服务新经济的太极机构，为创业者而生，很多投资人、创业者都在壹太极练拳，赶快来与我们相会吧！"
 
 
 # Team names, titles and social links
 people:
 - name: 何宇清
   pic: 1
-  position: 陈式太极拳第十二代传人
+  position: 欧洲孔子学院太极导师
   social:
     - title: twitter
       url: http://twitter.com/bbihyq
@@ -42,6 +42,16 @@ people:
     - title: google-plus
       url: #
 
+- name: 田秋信
+  pic: 4
+  position: 北京陈式太极拳领军人物
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
