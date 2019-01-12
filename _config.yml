@@ -42,38 +42,6 @@ people:
     - title: google-plus
       url: #
 
-- name: 田秋信
-  pic: 4
-  position: 杨式太极拳第六代传人
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-      
- - name: 杨洁
-  pic: 5
-  position: 周润发御用中医师
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #     
-
-- name: 玄风道长
-  pic: 6
-  position: 道家传人
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
