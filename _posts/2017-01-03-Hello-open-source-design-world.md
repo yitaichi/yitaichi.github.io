@@ -1,16 +1,11 @@
 ---
-layout: post
+layout: post1
 title: Hello open source design world
 author: Redon Skikuli
-link: https://twitter.com/rskikuli
+category: project
 date: 2017-01-03 11:00:00 +0200
-categories:
 images:
 - images/blog/hello_world.png
-tags:
-- Hello
-- Blog
-- Open Source Design
 excerpt:
   Hello design-onauts & free open source hacktivists and welcome to our blog! This will be our own space in the big ocean of chaotic, decentralized, beautiful and amazing flow of interactive information that is known in da hood as ‘the internet‘. We will share the latest works that make us proud, events we participate and […]
 ---
