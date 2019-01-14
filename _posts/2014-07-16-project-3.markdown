@@ -1,11 +1,11 @@
 ---
-title: 我在故宫打太极
-subtitle: 在故宫博物院内录制
+title: 周月亮
+subtitle: 中国传媒大学教授，博导
 layout: default
 modal-id: 3
 date: 2014-07-16
 img: golden.png
-thumbnail: golden-thumbnail.png
+thumbnail: 3.jpg
 alt: image-alt
 project-date: 2017年
 client: 何宇清
