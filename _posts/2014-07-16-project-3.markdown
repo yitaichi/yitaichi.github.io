@@ -9,7 +9,9 @@ thumbnail: 3.jpg
 alt: image-alt
 project-date: 2017年
 client: 何宇清
-category: 视频教学
+category: project
+projects: true
+hidden: true
 description: 这大概是首次允许带着刀剑进故宫录制太极拳教学片。由张峻峰、黄毓鹏、何宇清分别演练。张峻峰，中国武术七段，央视传统杨式太极拳教学节目的特邀老师，中国武协审定的吴式太极拳段位制教程的编著和演示范者，1971年出生于北京，习练太极拳三十余年。搜索《我在故宫打太极》即可观看所有视频。
 
 ---
