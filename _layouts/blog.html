@@ -6,7 +6,7 @@ layout: default1
   <div class="section-title new">
     <div class="row">
       <div class="medium-10 medium-centered columns">
-        <h1 style="color: #fff; font-size: 2rem;" class="wow slideInDown">Blog</h1>
+        <h1 style="color: #fff; font-size: 2rem;" class="wow slideInDown">壹太极博客</h1>
       </div>
     </div>
     </div>
@@ -22,9 +22,9 @@ layout: default1
       <div class="small-6 columns">
           {% if paginator.previous_page %}
             {% if paginator.previous_page == 1 %}
-              <a href="/blog" class="next button boxed black" style="float: right;"><i class="fa fa-angle-double-left"></i> Newer Entries</a>
+              <a href="/blog" class="next button boxed black" style="float: right;"><i class="fa fa-angle-double-left"></i>上一篇</a>
             {% else %}
-              <a href="/blog/older{{ paginator.previous_page }}" class="next button boxed black" style="float: right;"><i class="fa fa-angle-double-left"></i>Newer Entries</a>
+              <a href="/blog/older{{ paginator.previous_page }}" class="next button boxed black" style="float: right;"><i class="fa fa-angle-double-left"></i>上一篇</a>
             {% endif %}
           {% else %}
             <!-- <span class="newer">Newer Entries</span> -->
@@ -33,9 +33,9 @@ layout: default1
       <div class="small-6 columns">      
         {% if paginator.next_page %}
             {% if paginator.next_page == 1 %}
-              <a href="/blog" class="previous button boxed black" style="float: left;">Older Entries <i class="fa fa-angle-double-right"></i></a>
+              <a href="/blog" class="previous button boxed black" style="float: left;">下一篇<i class="fa fa-angle-double-right"></i></a>
             {% else %}
-              <a href="/blog/older{{ paginator.next_page }}" class="previous button boxed black" style="float: left;">Older Entries <i class="fa fa-angle-double-right"></i></a>
+              <a href="/blog/older{{ paginator.next_page }}" class="previous button boxed black" style="float: left;">下一篇<i class="fa fa-angle-double-right"></i></a>
             {% endif %}
           {% else %}
             <!-- <span class="older">Older Entries</span> -->
