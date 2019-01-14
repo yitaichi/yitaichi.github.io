@@ -1,11 +1,11 @@
 ---
-title: 盘山过半方知远
-subtitle: 田秋信大师系列拳照
+title: 王雷
+subtitle: 映客直播副总裁
 layout: default
 modal-id: 5
 date: 2014-07-14
 img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+thumbnail: 5.jpg
 alt: image-alt
 project-date: 2016年
 client: 吴旭
