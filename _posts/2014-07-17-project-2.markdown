@@ -9,7 +9,9 @@ thumbnail: 2.jpg
 alt: image-alt
 project-date: 2017-2018
 client: 黄毓鹏
-category: 视频教学
+category: project
+projects: true
+hidden: true
 description: 杨式太极拳第六代传人黄毓鹏老师详解传统杨式大架太极拳。此拳为杨澄甫宗师传授崔毅士先生，崔毅士传张勇涛，张勇涛传黄毓鹏。全套路共126式，另称85式，计数方式不同，实为同一套拳。去掉重复，传统杨式太极拳共三十七个不同式名的动作。各大视频网站均可看到。
 
 ---
