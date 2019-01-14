@@ -10,7 +10,7 @@ section_id: blog
     {% assign mod = forloop.index | modulo: 1 %}
     {% if mod == 0 %}
     <div class="large-1 blog centered-text columns">
-            {% if post.categories != empty %}
+            {% if post.categories =='blog' %}
               <span>
                 {% for cat in post.categories %}
                   <a href="#">{{cat | capitalize }}</a>
@@ -29,17 +29,7 @@ section_id: blog
           <h3 id="blog-title" class="blog"><a href="{{ post.url | replace:'.html','' }}">{{post.title}}</a></h3>
           <p class="blogauthor">by <a href="{{post.link}}" target="_blank">{{post.author}}</a></p>
           <p>{{post.excerpt}}</p>
-          <div class="tags">
-            {% assign words = post.content | number_of_words %}
-            {% if words < 360 %}
-            <a>Read time: 1 minute</a>
-            {% else %}
-            <a>阅读需时: {{ words | divided_by:180 }} 分钟</a>
-            {% endif %}
-             {% for tag in post.tags %}
-             <a href="{{ site.baseurl }}/tags/#{{tag | slugify }}">{{ tag }}</a>
-             {% endfor %}
-          </div>
+         
           <p><a href="{{ post.url | replace:'.html','' }}" class="button tiny blue simple boxed">阅读详情</a></p>
         </div>
   </div>
