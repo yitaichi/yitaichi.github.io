@@ -1,11 +1,11 @@
 ---
-title:  黄毓鹏讲解传统杨式太极拳85式
-subtitle: 三十七个不重复单式详解
+title:  王煜全
+subtitle: 海银资本创始合伙人
 layout: default
 modal-id: 2
 date: 2017-07-17
 img: escape.png
-thumbnail: escape-thumbnail.png
+thumbnail: 2.jpg
 alt: image-alt
 project-date: 2017-2018
 client: 黄毓鹏
