@@ -1,11 +1,11 @@
 ---
-title: 太极拳就是我的生命
-subtitle: 张勇涛大师系列拳照
+title: 何华杰
+subtitle: 中国联通宽带在线总经理
 layout: default
 modal-id: 4
 date: 2014-07-15
 img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+thumbnail: 4.jpg
 alt: image-alt
 project-date: 2016年
 client: 吴旭
