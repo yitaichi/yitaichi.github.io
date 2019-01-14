@@ -1,8 +1,10 @@
 ---
-layout: post1
+layout: post
 title: Hello open source design world
 author: Redon Skikuli
 category: project
+projects: true
+hidden: true
 date: 2017-01-03 11:00:00 +0200
 images:
 - images/blog/hello_world.png
