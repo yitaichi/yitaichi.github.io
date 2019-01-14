@@ -8,8 +8,9 @@ img: roundicons.png
 thumbnail: 6.jpg
 alt: image-alt
 project-date: 2016-2018
-client: 何宇清
-category: blog
+category: project
+projects: true
+hidden: true
 description: 这是我们的一个公益项目，为健在的太极拳大师留下3D动作捕捉数据。借助这些数据，可以精准展现太极拳动作中的身体方位，角度，运动轨迹及细节变化。采用真人动作捕捉，所有动作数据都基于张勇涛老师本人所演练。
 
 ---
