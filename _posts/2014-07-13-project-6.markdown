@@ -1,11 +1,11 @@
 ---
-title: 3D版传统杨式太极拳教学
-subtitle: 大师真人动作捕捉
+title: 蔡紫
+subtitle: 中央电视台主持人
 layout: default
 modal-id: 6
 date: 2014-07-15
 img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+thumbnail: 6.jpg
 alt: image-alt
 project-date: 2016-2018
 client: 何宇清
