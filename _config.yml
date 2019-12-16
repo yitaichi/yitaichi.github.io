@@ -2,9 +2,9 @@ url: https://www.yitaichi.com
 baseurl: /
 
 # Site settings
-title: 壹太极YITAICHI官网 | 首家服务新经济的太极机构_北京太极拳培训_企业家太极拳培训
+title: 壹太极YITAICHI官网 | 首家服务新经济的太极冥想机构_北京太极拳培训_企业家太极拳培训
 email: airwe@126.com
-description: "壹太极是中国首家服务新经济的太极机构，为创业者而生，以拳为媒连接创投圈，很多投资人、创业者都在壹太极练拳，赶快来与我们相会吧！"
+description: "壹太极是中国首家服务新经济的太极+冥想机构，为创业者而生，以拳为媒连接创投圈，很多投资人、创业者都在壹太极练拳，赶快来与我们相会吧！"
 
 
 # Team names, titles and social links
@@ -14,7 +14,7 @@ people:
   position: 欧洲孔子学院太极导师
   social:
     - title: twitter
-      url: http://twitter.com/bbihyq
+      url: https://weibo.com/heyuqing
     - title: facebook
       url: http://www.facebook.com/crypto6
     - title: google-plus
@@ -46,13 +46,13 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/bbihyq
+    url: https://weibo.com/heyuqing
   - title: facebook
     url:
   - title: google-plus
     url: bbihyq@gmail.com
   - title: facebook 
-    url: http://twitter.com/sinocollection
+    url: https://weibo.com/heyuqing
   - title: github
     url: http://github.com/bbihyq
 
